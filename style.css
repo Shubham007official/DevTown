@@ -1,3 +1,8 @@
+.body {
+
+    background-color: #282323;
+}
+
 .container{
     width: 300px;
     height: 280px;
@@ -196,7 +201,7 @@
     position: absolute;
     top: 50px;
     left: calc(50% - 3px);
-    background-color: #74372b;
+    background-color: #ffff09;
     animation: liquid 4s 4s linear infinite;
 }
 
